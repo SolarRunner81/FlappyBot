@@ -2,7 +2,9 @@
 
 # Press Shift+F10 to execute it or replace it with your code.
 # Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
-import pygame, sys
+import pygame
+import sys
+
 from settings import WIDTH, HEIGHT, ground_space
 from world import World
 
